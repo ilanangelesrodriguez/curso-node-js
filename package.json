@@ -1,0 +1,19 @@
+{
+  "name": "curso-node-js",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene materiales usados durante mi curso de Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilanangelesrodriguez/curso-node-js.git"
+  },
+  "author": "Ilan Néstor Angeles Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilanangelesrodriguez/curso-node-js/issues"
+  },
+  "homepage": "https://github.com/ilanangelesrodriguez/curso-node-js#readme"
+}
